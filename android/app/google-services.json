@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "997279890283",
+    "project_id": "walle-903ec",
+    "storage_bucket": "walle-903ec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997279890283:android:b7caa5f5ac15b0f6f82a2e",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWq7z1_O3Q2zkDS5Ct4bcNVCsgml2sTrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997279890283:android:f3c1da9251806cc0f82a2e",
+        "android_client_info": {
+          "package_name": "com.example.walle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWq7z1_O3Q2zkDS5Ct4bcNVCsgml2sTrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
